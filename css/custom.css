@@ -7,6 +7,13 @@
 	font-size: 3.0em;
 }
 
+@media screen and (max-width: 767px) {
+   .jumbotron h1, .jumbotron .h1 {
+      text-align: center;
+			font-size: 2.0em;	
+   }
+}
+
 h2 {
 	color: #E0172C;
 }
