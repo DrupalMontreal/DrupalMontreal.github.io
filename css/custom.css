@@ -3,6 +3,10 @@
 	padding: 20px;
 }
 
+.jumbotron {
+	padding: 15px;
+}
+
 .jumbotron h1, .jumbotron .h1 {
 	font-size: 3.0em;
 }
